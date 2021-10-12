@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 50px;
+}
+
+#heading2 {
+  font-family: Arial;
+  margin-left: 60px;
+  color: 228b22;
+}
+
+#heading3 {
+  font-family:'Franklin Gothic Medium';
+  margin-left: 60px;
+  color:black 
+}
+
+i {
+  font-size: 150%;
+  color: rgb(38, 0, 255);
+}
+
