@@ -24,3 +24,9 @@ i {
   color: rgb(38, 0, 255);
 }
 
+.rechteck {
+  display: inline-block;
+  height: 300px;
+  width: 400px;
+}
+
